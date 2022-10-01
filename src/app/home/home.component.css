@@ -1,0 +1,19 @@
+.child{
+    width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+tr{
+    text-align:center;
+    color: royalblue;
+}
+th{
+    width: 100px;
+  border: 15px solid rgb(39, 33, 13);
+    text-align:center;
+}
+.id{
+    text-align:end;
+    color: rgb(65, 225, 70);
+}
